@@ -6,12 +6,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/SagarKumarChoudhary2503/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SagarKumarChoudhary2503&column=7"/>
-  </a>
-</div>
+
 
 Languages and Tools: 
 
